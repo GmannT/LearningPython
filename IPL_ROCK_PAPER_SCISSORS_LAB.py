@@ -1,4 +1,4 @@
-#IPL_ROCK_PAPER_SCISSORS_LAB_U4_MGerstmann
+#IPL_ROCK_PAPER_SCISSORS_LAB
 import random
 
 
